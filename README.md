@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Projeto de Classificação</h1>
+    <h1>Projeto de Classificação de preços de residências</h1>
     <p>Este projeto utiliza um modelo de aprendizado de máquina para realizar classificações. O modelo foi salvo no formato <code>.pkl</code> e pode ser carregado para realizar previsões.</p>
     <h2>Instalação</h2>
     <p>Antes de utilizar o projeto, é necessário instalar os pacotes listados no arquivo <code>requirements.txt</code>. Para isso, execute o seguinte comando no terminal:</p>
